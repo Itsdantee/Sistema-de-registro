@@ -3,3 +3,6 @@
 
 
 Estado del proyecto : en proceso.
+
+Para ejecutar el sistema, debes poner.
+```rpm install react```
